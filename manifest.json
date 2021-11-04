@@ -1,0 +1,23 @@
+{
+  "name": "Play2x",
+  "short_name": "Play2x",
+  "description": "Exciting and provably fair games",
+  "dir": "auto",
+  "lang": "ru",
+  "display": "standalone",
+  "start_url": "/?mode=pwa",
+  "background_color": "#20242d",
+  "theme_color": "#20242d",
+  "icons": [
+    {
+      "src": "/res/android-chrome-192x192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/res/android-chrome-512x512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    }
+  ]
+}
